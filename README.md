@@ -9,9 +9,9 @@ i use arch btw
 
 ### projects
 ##### gamedev
-- [Surreal Bowling](https://github.com/jonaskyml/surreal-bowling)
-- [Alone?](https://github.com/jonaskyml/border)
-- Salvation Path (private)
+- **Surreal Bowling** – private repo • [playable demo](https://jonaskyml.itch.io/surreal-bowling)
+- **Alone?** – private repo • [playable demo](https://jonaskyml.itch.io/alone)
+- **Salvation Path** – private repo
 ##### webdev
 - [Identity Lab](https://github.com/jonaskyml/VisualBook)
 
