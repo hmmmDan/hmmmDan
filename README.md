@@ -13,9 +13,9 @@ i use arch btw
 - **Alone?** – private repo • [playable demo](https://jonaskyml.itch.io/alone)
 - **Salvation Path** – private repo
 ##### webdev
-- [Identity Lab](https://github.com/jonaskyml/VisualBook)
+- **Identity Lab** - private repo
 
 #### tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskabaidan.png" alt="Your Image Badge" />
 
-last update: 2026-01-31
+last update: 2026-02-01
