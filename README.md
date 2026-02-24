@@ -11,6 +11,7 @@ i use arch btw
 ##### gamedev
 - **Surreal Bowling** – private repo • [playable demo](https://jonaskyml.itch.io/surreal-bowling)
 - **Alone?** – private repo • [playable demo](https://jonaskyml.itch.io/alone)
+- **Dissonantia** – private repo • [playable demo](https://stillthinkingstudio.itch.io/dissonantia)
 - **Salvation Path** – private repo
 ##### webdev
 - **Identity Lab** - private repo
