@@ -9,7 +9,7 @@ i use arch btw
 
 ### projects
 ##### gamedev
-- **Surreal Bowling** – private repo • [playable demo](https://jonaskyml.itch.io/surreal-bowling)
+- **Surreal Bowling** – private repo • [playable demo](https://stillthinkingstudio.itch.io/surreal-bowling)
 - **Alone?** – private repo • [playable demo](https://jonaskyml.itch.io/alone)
 - **Dissonantia** – private repo • [playable demo](https://stillthinkingstudio.itch.io/dissonantia)
 - **Salvation Path** – private repo
@@ -23,4 +23,4 @@ i use arch btw
 ![Badge](https://img.shields.io/badge/⚡%2010%20Words-128_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 ![Badge](https://img.shields.io/badge/⚡%2015%20Seconds-90_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 
-last update: 2026-05-05
+last update: 2026-06-02
